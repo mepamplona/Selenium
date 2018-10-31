@@ -25,9 +25,9 @@ SETUP METHOD: In this method, general tasks have been implemented.
 	- Instantiate a Firefox browser 
 	- Get a local session when exploring to a page given by the URL variable in the web browser.
 	
-	WebDriver will hold up until the page has completely been loaded before returning control to your test or script.
+WebDriver will hold up until the page has completely been loaded before returning control to your test or script.
 
-	NOTE: It's important to know in this case it's a javascript web page so that it's necessary to wait some seconds to javascript code is processed.
+NOTE: It's important to know in this case it's a javascript web page so that it's necessary to wait some seconds to javascript code is processed.
 
 CASE OF USE 1: test_invalid_credentials Method
 	
